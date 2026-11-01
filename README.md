@@ -2,7 +2,7 @@
 
 A personal journal with mood tracking, verse prompts, and reflection entries.  
 
-Live: `https://placeholder.vercel.app`
+Live: `https://daily-text-journal-629m9szy9-rojo12.vercel.app`
 
 ## Stack
 - Vite + Vanilla TypeScript + Tailwind CSS (dark mode)
